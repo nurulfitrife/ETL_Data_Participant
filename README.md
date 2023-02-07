@@ -3,7 +3,7 @@ Perform Extract Transform Load (ETL) on data participant from DQLab Data Enginee
 Steps: 
 - Load Data from Source 
 - Transform 
-a. Extract kode pos from column address
+  a. Extract kode pos from column address
   b. Extract City from column address
   c. Extract Link Github from each participant 
   d. Cleansing column Phone Number
