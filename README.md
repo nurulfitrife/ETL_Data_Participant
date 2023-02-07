@@ -15,6 +15,6 @@ Steps:
 - Store Data to Database
 
 ## Dataset
-- Data Participant [Data](https://storage.googleapis.com/dqlab-dataset/dqthon-participants.csv) source: DQLAB-Dataset
+- Data Participant. [Data](https://storage.googleapis.com/dqlab-dataset/dqthon-participants.csv) source: DQLAB-Dataset
 
 
